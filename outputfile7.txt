@@ -1,0 +1,46 @@
+Tue Nov  6 15:12:42 PST 2012
+-al
+t's: 1	v's: 1000 edges: 499500	time: 0.529191	MST= 999	TSP= 1464.36
+t's: 1	v's: 2000 edges: 1999000	time: 0.767293	MST= 1999	TSP= 2953.27
+t's: 1	v's: 5000 edges: 12497500	time: 12.3945	MST= 4999	TSP= 7462.34
+t's: 1	v's: 6000 edges: 17997000	time: 18.835	MST= 5999	TSP= 8988.18
+t's: 1	v's: 7000 edges: 24496500	time: 28.8824	MST= 6999	TSP= 10447.6
+t's: 1	v's: 10000 edges: 49995000	time: 71.6217	MST= 9999	TSP= 15515.9
+
+t's: 2	v's: 1000 edges: 251326	time: 0.131395	MST= 999	TSP= 1464.36
+t's: 2	v's: 2000 edges: 1003172	time: 0.716551	MST= 1999	TSP= 2953.27
+t's: 2	v's: 5000 edges: 6257768	time: 11.1565	MST= 4999	TSP= 7462.34
+t's: 2	v's: 6000 edges: 9010001	time: 17.7843	MST= 5999	TSP= 8988.18
+t's: 2	v's: 7000 edges: 12260503	time: 27.559	MST= 6999	TSP= 10447.6
+t's: 2	v's: 10000 edges: 25014049	time: 65.8776	MST= 9999	TSP= 15515.9
+
+t's: 4	v's: 1000 edges: 130235	time: 0.200746	MST= 999	TSP= 1464.36
+t's: 4	v's: 2000 edges: 512351	time: 0.996172	MST= 1999	TSP= 2953.27
+t's: 4	v's: 5000 edges: 3150895	time: 11.3617	MST= 4999	TSP= 7462.34
+t's: 4	v's: 6000 edges: 4520745	time: 17.2629	MST= 5999	TSP= 8988.18
+t's: 4	v's: 7000 edges: 6185657	time: 26.3508	MST= 6999	TSP= 10447.6
+t's: 4	v's: 10000 edges: 12548664	time: 64.0721	MST= 9999	TSP= 15515.9
+
+t's: 1	v's: 10000 edges: 49995000	time: 85.4061	MST= 647449	TSP= 1.01417e+06
+t's: 1	v's: 10000 edges: 49995000	time: 85.0814	MST= 651170	TSP= 1.01856e+06
+t's: 1	v's: 10000 edges: 49995000	time: 84.3877	MST= 651869	TSP= 1.02266e+06
+t's: 1	v's: 12000 edges: 71994000	time: 131.444	MST= 856018	TSP= 1.33908e+06
+t's: 1	v's: 4000 edges: 7998000	time: 9.55871	MST= 166159	TSP= 258120
+t's: 1	v's: 2000 edges: 1999000	time: 1.24797	MST= 57569.1	TSP= 91138
+
+t's: 2	v's: 10000 edges: 25027229	time: 80.7934	MST= 647448	TSP= 1.01417e+06
+t's: 2	v's: 10000 edges: 25028052	time: 82.0227	MST= 651171	TSP= 1.01856e+06
+t's: 2	v's: 10000 edges: 25027765	time: 81.1206	MST= 651867	TSP= 1.02266e+06
+t's: 2	v's: 12000 edges: 36032392	time: 125.88	MST= 856018	TSP= 1.33908e+06
+t's: 2	v's: 4000 edges: 4011332	time: 9.02135	MST= 166159	TSP= 258120
+t's: 2	v's: 2000 edges: 1006626	time: 1.23222	MST= 57569.1	TSP= 91138
+
+t's: 4	v's: 10000 edges: 12575021	time: 78.5626	MST= 647449	TSP= 1.01417e+06
+t's: 4	v's: 10000 edges: 12595461	time: 79.6562	MST= 651171	TSP= 1.01856e+06
+t's: 4	v's: 10000 edges: 12584683	time: 78.131	MST= 651867	TSP= 1.02266e+06
+t's: 4	v's: 12000 edges: 18099081	time: 120.808	MST= 856020	TSP= 1.33908e+06
+t's: 4	v's: 4000 edges: 2029195	time: 8.32908	MST= 166159	TSP= 258120
+t's: 4	v's: 2000 edges: 513433	time: 0.951019	MST= 57569.1	TSP= 91138
+
+0m0.008s 0m0.008s
+30m26.018s 0m43.875s

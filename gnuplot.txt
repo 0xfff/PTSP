@@ -1,0 +1,2 @@
+plot "file1.txt" every 1:1:0:0:26:0 using 3:12 title "1 thread" with lines, "file1.txt" every 1:1:0:1:26:1 using 3:12 title "2 threads" with lines, "file1.txt" every 1:1:0:2:26:2 using 3:12 title "4 threads" with lines
+
